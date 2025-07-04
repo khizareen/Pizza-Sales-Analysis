@@ -34,7 +34,7 @@ All 13 parameterised queries (with comments) live in pizza_queries.sql and mirro
 
 Key Findings <sub>(sample results on local run)</sub>
 
-3 676 distinct orders generated ₹ 694 k revenue.
+3676 distinct orders generated ₹ 694 k revenue.
 
 Large pizzas account for ≈ 46 % of volume.
 
