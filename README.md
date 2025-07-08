@@ -46,14 +46,11 @@ Cumulative revenue curve shows 80 % of the month’s takings arrive by day 22
 
 (Figures will reproduce exactly when you execute the scripts on the dump.)
 
-Repository Layout
-pgsql
-Copy
-Edit
+## Repository Layout
+
 ├─ pizza_db.sql        # original data dump (schema + inserts)
 ├─ pizza_queries.sql   # 13 answered queries, grouped by level
 └─ README.md           # project documentation (you are here)
 
-Author
-Made with ❤️ by Khizareen Taj for the Data‑Science‑with‑SQL module (July 2025).
-Code is MIT‑licensed; dataset is provided for educational use only.
+## Author
+Khizareen Taj
